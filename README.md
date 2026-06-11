@@ -1,1 +1,1 @@
-# pcpos-docs
+pc pos is the future of rad form based applications running in a browser
